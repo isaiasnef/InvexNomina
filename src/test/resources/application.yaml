@@ -1,0 +1,7 @@
+application:
+  name: ligeun
+  package: com.neftali.ligeun
+spring:
+  application:
+    name: ${application.name}
+
